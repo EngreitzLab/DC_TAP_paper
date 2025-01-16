@@ -1,7 +1,7 @@
 # Key Paths
 
 ## Cell Ranger Outputs:
-- **K562**: /oak/stanford/groups/engreitz/Users/ejagoda/230327_Encode_k562_Tap_seq_full/seq/230327_Encode_Tap_all_moi5_W_fresh_aggregate_nonorm/
+- **K562**: /oak/stanford/groups/engreitz/Users/ejagoda/230327_Encode_K562_Tap_seq_full_seq/230327_Encode_Tap_all_moi5_w_fresh_aggregate_no_norm
 - **WTC11**: /oak/stanford/groups/engreitz/Users/ejagoda/231114-WTC11-ENCODE-DC-TAP-MOI5-Frozen-16-Lanes/count/
 
 ### Genome Build to Use:

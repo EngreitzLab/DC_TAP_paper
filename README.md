@@ -25,12 +25,12 @@
   - Path to 10x results: /oak/stanford/groups/engreitz/Users/ejagoda/hgrm/220523_high_moi_tap_dc_ampli_tap_pilot/10x_analysis/
   - **[to do]** Path to differential expression outputs: cp from local ie /Users/ejagoda/Documents/HGRM/Crispri/220523_high_moi_tap_dc_ampli_tap_pilot/10x_analysis/052322_analysis_H-DC-TAP-Whole/hsdc_tap_w_all_pertsdifferential_expression_output_tab_WITHLOCUSFILTERS_fixed.txt
 
-- **3. K562 multi moi**
+- **3. K562 multi moi  (JR28_22-09-13)**
   - Path to 10x results: /oak/stanford/groups/engreitz/Users/ejagoda/multi_moi/10x_analysis
   - Path to  differential expression results: /oak/stanford/groups/engreitz/Users/ejagoda/Encode_K562_Random_TAP_screen/CRISPRiScreen-example/results/multi_moi1
   - **[to do]** upload from local post processing script /Users/ejagoda/Documents/HGRM/Crispri/multi_moi/analyze_mast_multi_moi.R
 
-- **4. wtc11 multi moi**
+- **4. wtc11 multi moi (JR38_23-02-10)**
   - Path to 10x results: /oak/stanford/groups/engreitz/Users/ejagoda/230309_WTC11_Multi_MOI_TAP_DC_Pilot_FIXED/{moi}_230309_WTC11_Multi_MOI_TAP_DC_Pilot_new_seq
   - Path to differential expression results: /oak/stanford/groups/engreitz/Users/ejagoda/Encode_K562_Random_TAP_screen/CRISPRiScreen-example/results/230309_WTC11_Multi_MOI_TAP_DC_Pilot_FIXED_{moi}
   - **[to do]** upload from local post processing ~/Documents/HGRM/Crispri/230309_WTC11_Multi_MOI_TAP_DC_Pilot/analyze_snakemake_mast_230309_WTC11_Multi_MOI_TAP_DC_Pilot.R

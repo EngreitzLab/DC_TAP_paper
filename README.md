@@ -14,13 +14,14 @@
 ## Pilot Studies:
 - **1. TAP-seq pilot assay (JR06_21-11-03)**:
   - Direct capture 10x output: /oak/stanford/groups/engreitz/Users/kangh/process_sequencing_data/220210_CRISPRi_direct_capture/CRISPRiGuideCaptureTAP-seqUpdatedFeatureReference
-  - Path to TAPseq_workflow to generate dge.txt for all and guide assignment for the TAP-seq (crop-seq vector): /oak/stanford/groups/engreitz/Users/ejagoda/dc_tap_seq/from_Helen_scratch/TAPseq_workflow/
+  -  DE files:
+      - /oak/stanford/groups/engreitz/Users/ejagoda/reorganization_2025/crispri_analysis_from_evvies_local/JR06_21-11-03_pilot_tap_seq_ampli_dc/v3/fromHelen_P10/summary_table_P10_tap_kd_mean_fc_all_genes.txt
+      - /oak/stanford/groups/engreitz/Users/ejagoda/reorganization_2025/crispri_analysis_from_evvies_local/JR06_21-11-03_pilot_tap_seq_ampli_dc/v3/summary_table_kd_mean_fc_all_ampli_tap_samples_all_genes.txt
   - Analysis scripts:
+  -   Path to TAPseq_workflow to generate dge.txt for all and guide assignment for the TAP-seq (crop-seq vector): /oak/stanford/groups/engreitz/Users/ejagoda/dc_tap_seq/from_Helen_scratch/TAPseq_workflow/
   -  /oak/stanford/groups/engreitz/Users/ejagoda/reorganization_2025/crispri_analysis_from_evvies_local/JR06_21-11-03_pilot_tap_seq_ampli_dc/v3/fromHelen_P10/P10_tap_analysis.R
   -  /oak/stanford/groups/engreitz/Users/ejagoda/reorganization_2025/crispri_analysis_from_evvies_local/JR06_21-11-03_pilot_tap_seq_ampli_dc/v3/from_Helen_ampliTap/ampli_tap_analysis.R
   -  /oak/stanford/groups/engreitz/Users/ejagoda/reorganization_2025/crispri_analysis_from_evvies_local/JR06_21-11-03_pilot_tap_seq_ampli_dc/v3/fromHelen_DC/Analyze_gene_expression_data_dc_10x.R
-  -  DE files: /oak/stanford/groups/engreitz/Users/ejagoda/reorganization_2025/crispri_analysis_from_evvies_local/JR06_21-11-03_pilot_tap_seq_ampli_dc/v3/fromHelen_P10/summary_table_P10_tap_kd_mean_fc_all_genes.txt
-  -  /oak/stanford/groups/engreitz/Users/ejagoda/reorganization_2025/crispri_analysis_from_evvies_local/JR06_21-11-03_pilot_tap_seq_ampli_dc/v3/summary_table_kd_mean_fc_all_ampli_tap_samples_all_genes.txt
 
 - **2. TAP-direct capture test (Low vs High MOI) (220523_high_moi_tap_dc_ampli_tap_pilot) (JR18_22-05-13)**:
   - Path to 10x results: /oak/stanford/groups/engreitz/Users/ejagoda/hgrm/220523_high_moi_tap_dc_ampli_tap_pilot/10x_analysis/

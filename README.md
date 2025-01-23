@@ -19,7 +19,7 @@
   -  upload ~/Documents/HGRM/Crispri/Crispr_enhancer_analysis_tap_perturb_etc/v3/fromHelen_P10/P10_tap_analysis.R
   -  upload ~/Documents/HGRM/Crispri/Crispr_enhancer_analysis_tap_perturb_etc/v3/from_Helen_ampliTap/ampli_tap_analysis.R
   -  upload ~/Documents/HGRM/Crispri/Crispr_enhancer_analysis_tap_perturb_etc/v3/fromHelen_DC/Analyze_gene_expression_data_dc_10x.R
-  -  and the path the inputs and outputs
+  -  and the path the inputs and outputs (zip the folder and upload so paths can be followed)
   -  DE files: /Users/ejagoda/Documents/HGRM/Crispri/Crispr_enhancer_analysis_tap_perturb_etc/v3/fromHelen_P10/summary_table_P10_tap_kd_mean_fc_all_genes.txt
   -  /Users/ejagoda/Documents/HGRM/Crispri/Crispr_enhancer_analysis_tap_perturb_etc/v3/fromHelen_DC/summary_table_kd_mean_fc_all_ampli_tap_samples_all_genes.txt
 

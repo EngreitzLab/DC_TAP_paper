@@ -12,5 +12,5 @@
 - **WTC11**: /oak/stanford/groups/engreitz/Users/jgalante/ENCODE_Sceptre_Analysis/results/process_validation_datasets/WTC11_DC_TAP_Seq
 
 ## Pilot Studies:
-- **TAP-seq pilot assay (JR06_21-11-03)**: 
-########Direct capture 10x output: /oak/stanford/groups/engreitz/Users/kangh/process_sequencing_data/220210_CRISPRi_direct_capture/CRISPRiGuideCaptureTAP-seqUpdatedFeatureReference
+- **TAP-seq pilot assay (JR06_21-11-03)**:
+  - Direct capture 10x output: /oak/stanford/groups/engreitz/Users/kangh/process_sequencing_data/220210_CRISPRi_direct_capture/CRISPRiGuideCaptureTAP-seqUpdatedFeatureReference
